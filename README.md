@@ -21,7 +21,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <a href="http://tiny.cc/ta3qrz"> <img src="http://tiny.cc/ta3qrz"style="width:100%"/></a>
+  <img src="https://lh3.googleusercontent.com/Bn2YryyEW4tJ0AQL7xOKDaIyZw_noDtmbcBb6grqACTsILZHMNFVMjlpZqZzSlvST2PiOomwYqQrg8aG_46n8sTCQOI1B7KRREd7W8yxMDd9jt9PLw3OIwWDWvvRFnVot71WLKHfcXE=w2400" style="width:100%" />
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
